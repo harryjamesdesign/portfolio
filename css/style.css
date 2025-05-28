@@ -399,20 +399,25 @@
     width: 100%;
 }
 
-#home{
+#home {
     color: orangered;
 }
 
-.m-0 a{
-color: #3CB815;
+.m-0 a {
+    color: #3CB815;
 }
 
-small{
+small {
     color: #3CB815;
     font-weight: 900;
 }
 
-#ico{
+#ico {
     color: #F65005;
     font-weight: 900;
+}
+
+#heightFour {
+    height: 250px;
+    width: 100%;
 }
